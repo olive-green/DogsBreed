@@ -1,5 +1,4 @@
 import React from "react";
-import './App.css';
 import Breed from "./components/Breeds"
 import {BrowserRouter as Router,Route,Switch} from "react-router-dom"
 import Dog from "./components/Dog";
