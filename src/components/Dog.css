@@ -1,0 +1,48 @@
+  body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    /* showing the default */
+    line-height: 1.8;
+  }
+  .article {
+    max-width: 610px;
+    margin: 0 auto;
+    /* for mobile */
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 60px;
+    padding-bottom: 90px;
+    /* (shorthand) padding: 60px 30px 90px; */
+  }
+  
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    /* default */
+    font-size: 2.415em;
+    line-height: 1.2;
+    /*
+    letter-spacing: -1px;
+    color: @blue;
+    padding-bottom: 6px;
+    border-bottom: 2px solid @gray;
+    */
+  }
+  p {
+    /* we did most of the work in the body tag! */
+    margin-bottom: 1em;
+  }
+  h2 {
+    font-size: 1.8rem;
+    line-height: 1;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+  }
+  h3 {
+    font-size: 1.342rem;
+    line-height: 1;
+    margin-top: 1.8em;
+    margin-bottom: 0.5em;
+  }
+  
